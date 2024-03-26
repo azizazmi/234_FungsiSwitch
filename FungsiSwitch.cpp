@@ -5,5 +5,5 @@ int bilangan1, bilangan2;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+
 }
