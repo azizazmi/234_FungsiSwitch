@@ -64,5 +64,8 @@ int main() {
 				cout << "Pilihan tidak ada." << endl;
 				break;
 		}
+
+		system("Pause");
+		system("CLS");
 	} while (pilihan != 5);
 }
